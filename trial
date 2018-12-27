@@ -1,0 +1,9 @@
+int k;
+            for (k = 0; !b; k++) {
+
+            }
+
+            number[j] = str.substring(i,k);
+
+            Toast toast = Toast.makeText(getApplicationContext()," "+number[0], Toast.LENGTH_SHORT);
+            toast.show();
