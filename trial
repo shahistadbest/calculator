@@ -1,9 +1,53 @@
-int k;
-            for (k = 0; !b; k++) {
+Shikumika (Systemize) 
+•	Try to improve the way of working so that things will take less time and easy to do.
+•	To create a new system of Device management and kept track of it.
+•	To collect all the problems faced by team members while PT, ST uploading and co-operating between other teams, collect and arrange the solutions so that the work-flow will be smooth and will consume less time.
+•	To make manuals of processing which will be easy to understand for current members as well as if somebody enters in the team.
 
-            }
+Created a Confluence page which will help PL and the team members to arrange all the project related information.
+Keeping track of devices taken or returned. Changed the stickers of devices as the old ones were misplaced or torn. 
+Created a manual of work flow for basic activities required while developing an app
+Example- A basic workflow from design document to ST up, FX App verification etc.
+Team Building
+①To have weekly meeting of knowledge sharing between team members through which everyone can learn new things and the knowledge can be used in next projects.
+-> As everyone is working on different projects/subsytems, if we share knowledge mong us then we can increase our knowledge scope.
+②Note the processes and make manual which can be shared to new members, which will make their work easy and also help if somebody get stucked in between.
+-> If new membes enters in team, manuals will help to learn work-flow.
+③Make the bonding between members strong so that work environment will be positive and hence will reduce the working cost. Example-Birthday Celebrations,Get-together Events etc.
+-> If we increase the bonding between team members then it will show positive impact on work collaboration.
 
-            number[j] = str.substring(i,k);
 
-            Toast toast = Toast.makeText(getApplicationContext()," "+number[0], Toast.LENGTH_SHORT);
-            toast.show();
+スキル習得
+①To improve Japanese and communicating independently.
+•	To be able to communicate verbally 
+•	To be able to write mails
+•	Currently I'm preparing for JLPT N3 level which will increase my ability to understand Japanese used in everyday situations to a certain degree.
+②To learn Swift upto intermediate level.
+③To learn VBA and use it in day today work.
+④To improve Objective C 
+運用作業
+②	To Solve assigned FAQ and issues without affecting the current ongoing work.
+②To constantly keep track of changes made by Android/iPhone(Example-Policy changes, Certificate expiration etc.) and make necessary changes in advance to keep the working flow smooth. 
+
+As doing simultaneous projects at the same time, I can manage to solve arrived bugs while completing current project in given time.
+開発計画
+①To be able to complete the assigned project without any issue and in given assigned deadline independently(Android and iPhone).
+②To learn different subsystem’s working flow:
+•	Environment Building
+•	Coding Flow
+•	PT, ST 作業
+•	EPMS作業
+③ To be able to create/update project related documents independently(設計書、問題管理一覧表、課題管理表　etc.)
+④To be able to consult, negotiate, clearing doubts with corresponding member(internal team/vendors) independently.
+
+Completed all the assigned projects in time and without any kind of error. And learnt all the technologies required for the particular project.
+•	None of the released projects have bug in production.
+•	I can and have done projects both independently as well as with team. I have gained the confidence to work independently and also I have learnt better team skills so I can work with any team now.
+
+
+業務改善
+①Automate the Device management system to reduce the manual work and time.
+•	Use suitable technology and learn it.
+•	Reduce the time and cost of members.
+•	Proper arrangement of collected information.
+
