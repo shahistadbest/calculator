@@ -25,11 +25,14 @@ Team Building
 ②To learn Swift upto intermediate level.
 ③To learn VBA and use it in day today work.
 ④To improve Objective C 
+I ensure to maintain a smooth flow of communication 
+While I am quite comfortable in terms of written communication, but there is certainly scope for improvement in my verbal communication skills.
 運用作業
 ②	To Solve assigned FAQ and issues without affecting the current ongoing work.
 ②To constantly keep track of changes made by Android/iPhone(Example-Policy changes, Certificate expiration etc.) and make necessary changes in advance to keep the working flow smooth. 
 
-As doing simultaneous projects at the same time, I can manage to solve arrived bugs while completing current project in given time.
+	As doing simultaneous projects at the same time, I can manage to solve arrived bugs while completing current project in given time.
+	Worked on different project accommodating the changes given by Apple, Android or other third party applications used by Rakuten Bank.
 開発計画
 ①To be able to complete the assigned project without any issue and in given assigned deadline independently(Android and iPhone).
 ②To learn different subsystem’s working flow:
@@ -38,16 +41,34 @@ As doing simultaneous projects at the same time, I can manage to solve arrived b
 •	PT, ST 作業
 •	EPMS作業
 ③ To be able to create/update project related documents independently(設計書、問題管理一覧表、課題管理表　etc.)
-④To be able to consult, negotiate, clearing doubts with corresponding member(internal team/vendors) independently.
+③	To be able to consult, negotiate, clearing doubts with corresponding member(internal team/vendors) independently.
 
-Completed all the assigned projects in time and without any kind of error. And learnt all the technologies required for the particular project.
-•	None of the released projects have bug in production.
-•	I can and have done projects both independently as well as with team. I have gained the confidence to work independently and also I have learnt better team skills so I can work with any team now.
-
-
+	Completed all the assigned projects in time and without any kind of error. And learnt all the technologies required for the particular project. None of the released projects have bug in production.
+	The most interesting and new thing I did was to work as PL and developer together for a project (Network Error), also it was challenging job as the requirement document was also being created in our team due to which there is frequent change in design document, coding and testing.
+•	This project was good opportunity to learn the PL task and explore new field.
+•	Plan the schedule or make necessary changes to meet the resources available.
+•	To balance between two roles and make sure to complete them properly.
+	Worked on 3 subsystems as Android, iPhone and SFES successfully with proper understanding from environment flow to PT/ST作業 and EPMS 作業. Couldn’t do the investigation properly in case of XFES, I will improve on it.
+	I can and have done projects both independently as well as with team. 
+•	While working in team I learnt the dependency and communication due to which the work was carried out smoothly. I worked with sense of ownership so that other team members’ task wasn’t disturbed because of me.
+•	I also gained confidence to work independently by increasing the knowledge base. By managing time and all the task, completed the projects in time.
+•	Worked with different PL and with different teams learning and coordinating with different workstyles.
+	Learnt to handle the database and make necessary changes required for making test cases.
+	Also worked on some special cases like how to roll back the project from ST phase if release get cancelled(合言葉) or what is the process to release the previously postponed project(secure RAT)
 業務改善
 ①Automate the Device management system to reduce the manual work and time.
-•	Use suitable technology and learn it.
-•	Reduce the time and cost of members.
-•	Proper arrangement of collected information.
+1.	Use suitable technology and learn it.
+2.	Reduce the time and cost of members.
+3.	Proper arrangement of collected information.
+Created a Confluence page which will help PL and the team members to organize all the information and have following benefits-
+	To make it easily accessible and noticeable if there are any changes in schedule or dates etc.
+	 To make all the related documents(要件書、URL、案件フォルダ等) easily accessible which will save time in review meetings if we need to refer anything in between.
+	To record all the investigation result so the history will be maintained why particularly the process had been opted
+	To list the milestones in the project so that there will be proper time management.
+	To note down all the problems faced in the process with the solutions, so that in next project we can avoid them or take reference from the solutions.
+
+Created a 知恵袋 amongst the 五月雨テーマ which serves following purpose-
+	As all members work on different projects and different streams, it provides the platform to share the information.
+	All the information is arranged and makes it easy to access.
+	It can be used in future to refer the solutions also the search time is reduced.
 
